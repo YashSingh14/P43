@@ -1,6 +1,6 @@
 const accessCode1 = "VARIABLE";
-const accessCode2 = "FUNCTION";
-const accessCode3 = "DATABASE";
+const accessCode2 = "NECKLACE";
+const accessCode3 = "TELEPHONE";
 
 function clues() {
     
